@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KBW%20Repo!&fontSize=60&rotate=10&&fontAlign=70&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KBW%20Repo!&fontSize=60&rotate=10&&fontAlign=70&fontAlignY=20)
 
 네 뭐.. 열심히 살고 있는 개발자입니다..
 
