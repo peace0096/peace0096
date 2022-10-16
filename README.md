@@ -27,7 +27,9 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=ec2&logoColor=white">
+  <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=s3&logoColor=white">
+  
   
 </div>
 
