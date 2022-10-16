@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=ec2&logoColor=white">
+  <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 
   
   
