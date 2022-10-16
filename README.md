@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KBW%20Repo!&fontSize=60&rotate=10&&fontAlign=70&fontAlignY=20)
 
 
-## 하위 👋
-
-
 <div align=center><h1> Techs </h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
