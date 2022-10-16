@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nodejs-#339933?style=flat-square&logo=Nodejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/nodejs-#339933?style=flat-square&logo=nodejs&logoColor=white"/>
 
 
 
