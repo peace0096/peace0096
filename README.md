@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KBW Repo!&fontSize=90&rotate=20&&fontAlign=70&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KBW%20Repo!&fontSize=90&rotate=20&&fontAlign=70&fontAlignY=20)
 
 
 ## 하위 👋
