@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KBW%20Repo!&fontSize=60&rotate=10&&fontAlign=70&fontAlignY=20)
 
-건국대학교 19학번 강병우입니다.
+건국대학교 컴퓨터공학부 19학번 강병우입니다.
 Spring boot와 MSA, Socket Programming에 관심이 있고, 현재 IOCP와 Boost::Asio에 대해 스터디를 하고 있습니다.
-공통적으로, 통신에 대한 리소스 소모를 최적화를 하기 위해 노력하고 있습니다..랄까요.
+
+<br>
 
 <div align=left><h1> 📗 Techs </h1></div>
 <div align=left>
