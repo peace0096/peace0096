@@ -12,8 +12,11 @@
 
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GithubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  #
+  
 </div>
+<div align=center><h1> My Velog</h1></div>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@eungyeole) 
 
 <div align=left><h1> Git Stats </h1></div>
 
