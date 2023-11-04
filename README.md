@@ -35,5 +35,5 @@ Spring boot와 MSA, Socket Programming에 관심이 있고, 현재 IOCP와 Boost
 
 <div align=left><h1> 📫 My BLog </h1></div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@kbw0226) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kbw0226)](https://velog.io/@kbw0226) 
 
