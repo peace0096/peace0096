@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/badge/GithubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   
 </div>
-<div align=center><h1> My Velog [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kbw0226)](https://velog.io/@eungyeole)  </h1></div>
+<div align=center><h1> My Velog</h1>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kbw0226)](https://velog.io/@kbw0226)
+</div>
 
 
 
