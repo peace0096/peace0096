@@ -4,8 +4,8 @@
 Spring boot와 MSA, Socket Programming에 관심이 있고, 현재 IOCP와 Boost::Asio에 대해 스터디를 하고 있습니다.
 공통적으로, 통신에 대한 리소스 소모를 최적화를 하기 위해 노력하고 있습니다..랄까요.
 
-<div align=center><h1> 📗 Techs </h1></div>
-<div align=center>
+<div align=left><h1> 📗 Techs </h1></div>
+<div align=left>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
  
@@ -21,9 +21,9 @@ Spring boot와 MSA, Socket Programming에 관심이 있고, 현재 IOCP와 Boost
   <img src="https://img.shields.io/badge/GithubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   
 </div> 
-<div align=center><h1> 💻 Dev Log </h1></div>
+<div align=left><h1> 💻 Dev Log </h1></div>
 
-<div align=center>
+<div align=left>
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kbw0226)](https://github.com/eungyeole/velog-readme-stats)
 
