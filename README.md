@@ -32,7 +32,6 @@ Spring boot와 MSA, Socket Programming에 관심이 있고, 현재 IOCP와 Boost
 
 <div align=left><h1> 📋 Git Stats </h1></div>
 
-https:///api?username=peace0096
 
 ![peace0096's GitHub stats](https://github-readme-stats-dz25kcdqu-byungwoo-kangs-projects.vercel.app/api?username=peace0096&show_icons=true&theme=radical)
 
