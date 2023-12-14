@@ -3,6 +3,8 @@
 건국대학교 컴퓨터공학부 19학번 강병우입니다.
 Spring boot와 MSA, Socket Programming에 관심이 있고, 현재 IOCP와 Boost::Asio에 대해 스터디를 하고 있습니다.
 
+[🔍My Introduce!]()
+
 <br>
 
 <div align=left><h1> 📗 Techs </h1></div>
