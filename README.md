@@ -32,6 +32,10 @@ Spring boot와 MSA, Socket Programming에 관심이 있고, 현재 IOCP와 Boost
 
 </div>
 
+<div align=left><h1> Algorithm</h1></div>
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=peace0096)](https://solved.ac/peace0096/)
+
+
 <div align=left><h1> 📋 Git Stats </h1></div>
 
 
