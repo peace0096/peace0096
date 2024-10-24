@@ -33,7 +33,9 @@ Spring boot와 MSA, Socket Programming에 관심이 있고, 현재 IOCP와 Boost
 </div>
 
 <div align=left><h1> Algorithm</h1></div>
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=peace0096)](https://solved.ac/peace0096/)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=peace0096)](https://solved.ac/peace0096)
+
 
 
 <div align=left><h1> 📋 Git Stats </h1></div>
@@ -43,5 +45,4 @@ Spring boot와 MSA, Socket Programming에 관심이 있고, 현재 IOCP와 Boost
 
 <div align=left><h1> 📫 My BLog </h1></div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kbw0226)](https://velog.io/@kbw0226) 
-
+[![Velog](https://velog-readme-stats.vercel.app/api/badge?name=kbw0226)](https://velog.io/@kbw0226) 
